@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Miku BlackJack</string>
+    <string name="label_player">You</string>
+    <string name="label_vs">V.S.</string>
+    <string name="label_dealer">Dealer</string>
+    <string name="label_hit">HIT</string>
+    <string name="label_stand">STAND</string>
+    <string name="label_dbl">Double</string>
+    <string name="label_split">Split</string>
+    <string name="label_win">You win!</string>
+    <string name="label_lose">You lose</string>
+    <string name="label_draw">Push</string>
+    <string name="label_retry">Retry</string>
+    <string name="label_back">back</string>
+    <string name="label_start"> S T A R T ! </string>
+    <string name="label_medals">Chips:</string>
+    <string name="label_bet1">2 Bets</string>
+    <string name="label_bet2">4 Bets</string>
+    <string name="label_bet3">10 Bets</string>
+    <string name="label_bet">Bets</string>
+    <string name="ins_title">Insurance?</string>
+    <string name="noadd">not increase any more</string>
+    <string name="label_cards">Cards:</string>
+    <string name="yes">yes,please.</string>
+    <string name="no">no thanks.</string>
+    <string name="surrender">surrendered.</string>
+    <string name="nobj">not blackjack.</string>
+    <string name="dbj">DJ blackjack.</string>
+    <string name="menu_1">share</string>
+    <string name="menu_2">more app</string>
+    <string name="menu_3">resets</string>
+    <string name="reset">reset complete</string>
+    <string name="choice">Please select</string>
+    <string name="twittertext">#mikubj http://goo.gl/NByNW</string>
+    <string name="label_training">Training</string>
+    <string name="label_training_deal">Deal</string>
+    <string name="label_good">o</string>
+
+</resources>
