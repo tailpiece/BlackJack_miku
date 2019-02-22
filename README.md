@@ -1,2 +1,2 @@
-# BlackJack_miku
-初音ミク BlackJack
+# 初音ミク BlackJack
+広告なし、Android Studio 版
