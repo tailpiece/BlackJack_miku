@@ -5,4 +5,5 @@ Android Studio に移植した際に、対象OSのVersionを上げています�
 
 ## リポジトリをクローンしても、そのままだと動作しません。
 ※画像・音声に関しては、二次配布となってしまうため、githubには反映させておりません。
-dfc83ff393b1238e25cf2d810d3389f4f0be0010 にて、ファイル構成が確認できますので、この通りにファイルを設置してください。
+https://github.com/tailpiece/BlackJack_miku/commit/8bdf97cc10847d61baa5391cdaac5d07dd5e4eb1
+上記コミットにて、ファイル構成が確認できますので、この通りにファイルを設置してください。
