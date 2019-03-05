@@ -65,5 +65,5 @@ fastlane/test_output
 fastlane/readme.md
 
 #drawable
-app/src/main/res/drawable/*
-app/src/main/res/raw/*
+app/src/main/res/drawable/
+app/src/main/res/raw/
